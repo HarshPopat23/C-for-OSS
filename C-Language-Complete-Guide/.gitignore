@@ -1,0 +1,8 @@
+build/
+*.o
+*.out
+*.exe
+*.log
+student_records.txt
+sample_output.txt
+
