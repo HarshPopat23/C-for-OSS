@@ -99,12 +99,3 @@ After completing the repository, a student should be able to:
 8. Build multi-file programs using headers and separate compilation.
 9. Diagnose common compile-time, link-time, run-time, and logic errors.
 10. Complete the supplied projects and question bank independently.
-
-## Practice questions
-
-1. Why should a beginner compile with `-Wall -Wextra -Wpedantic`?
-2. What is the difference between source code, object code, and an executable?
-3. Why is learning arrays before pointers helpful?
-4. Which four syllabus functions are not portable or not safe, and what should replace them?
-5. Compile one example with both GCC and Clang and compare the warnings.
-
